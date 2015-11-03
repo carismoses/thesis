@@ -1,0 +1,29 @@
+\contentsline {section}{\numberline {1}Introduction}{4}
+\contentsline {section}{\numberline {2}Background}{7}
+\contentsline {subsection}{\numberline {2.1}Related Work}{7}
+\contentsline {subsubsection}{\numberline {2.1.1}Task Planners}{7}
+\contentsline {subsubsection}{\numberline {2.1.2}Motion Planners}{8}
+\contentsline {subsubsection}{\numberline {2.1.3}Integrated Task and Motion Planning}{8}
+\contentsline {subsubsection}{\numberline {2.1.4}POMDPs}{9}
+\contentsline {subsubsection}{\numberline {2.1.5}Multi-Agent Planning}{12}
+\contentsline {subsection}{\numberline {2.2}BHPN Description}{12}
+\contentsline {subsubsection}{\numberline {2.2.1}Components}{13}
+\contentsline {subsubsection}{\numberline {2.2.2}Algorithm}{15}
+\contentsline {section}{\numberline {3}Problem Specification}{16}
+\contentsline {section}{\numberline {4}Domain Description}{16}
+\contentsline {subsection}{\numberline {4.1}Operators}{16}
+\contentsline {subsection}{\numberline {4.2}Regression Functions}{22}
+\contentsline {subsection}{\numberline {4.3}Observation Model}{23}
+\contentsline {section}{\numberline {5}Complexity Analysis}{25}
+\contentsline {subsection}{\numberline {5.1}BHPN Complexity}{25}
+\contentsline {subsection}{\numberline {5.2}Suboptimality and Reachability}{26}
+\contentsline {section}{\numberline {6}Single-Agent Planning}{26}
+\contentsline {subsection}{\numberline {6.1}Mission Scenarios}{26}
+\contentsline {subsection}{\numberline {6.2}Simulation Results}{28}
+\contentsline {section}{\numberline {7}Multi-Agent Planning}{29}
+\contentsline {subsection}{\numberline {7.1}Mission Scenario}{30}
+\contentsline {subsection}{\numberline {7.2}Simulation Results}{31}
+\contentsline {section}{\numberline {8}Evaluation}{31}
+\contentsline {subsection}{\numberline {8.1}POMDP Comparison}{31}
+\contentsline {subsection}{\numberline {8.2}Multi-Agent Planning Comparison}{32}
+\contentsline {section}{\numberline {9}Conclusion}{32}

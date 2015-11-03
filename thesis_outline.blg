@@ -1,0 +1,18 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: thesis_outline.aux
+The style file: plain.bst
+Database file #1: bibtex_database.bib
+I was expecting a `,' or a `}'---line 129 of file bibtex_database.bib
+ :   
+ :   journal={Artificial intelligence},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Repeated entry---line 161 of file bibtex_database.bib
+ : @article{ponzoni2012pomdp
+ :                          ,
+I'm skipping whatever remains of this entry
+Warning--empty journal in kaelbling2010hierarchical
+Warning--empty journal in kaelbling2012integrated
+Warning--empty journal in ponzoni2012pomdp
+Warning--empty journal in sacerdoti1974planning
+Warning--empty year in sacerdoti1974planning
+(There were 2 error messages)

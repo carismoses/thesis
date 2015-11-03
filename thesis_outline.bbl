@@ -1,0 +1,163 @@
+\begin{thebibliography}{10}
+
+\bibitem{bacchus1994downward}
+Fahiem Bacchus and Qiang Yang.
+\newblock Downward refinement and the efficiency of hierarchical problem
+  solving.
+\newblock {\em Artificial Intelligence}, 71(1):43--100, 1994.
+
+\bibitem{barrett1994partial}
+Anthony Barrett and Daniel~S Weld.
+\newblock Partial-order planning: Evaluating possible efficiency gains.
+\newblock {\em Artificial Intelligence}, 67(1):71--112, 1994.
+
+\bibitem{beetz2011robotic}
+Michael Beetz, Ulrich Klank, Ingo Kresse, Alexis Maldonado, L~Mosenlechner,
+  Dejan Pangercic, T~Ruhr, and Moritz Tenorth.
+\newblock Robotic roommates making pancakes.
+\newblock In {\em Humanoid Robots (Humanoids), 2011 11th IEEE-RAS International
+  Conference on}, pages 529--536. IEEE, 2011.
+
+\bibitem{bourgault2003coordinated}
+Frederic Bourgault, Tomonari Furukawa, and Hugh~F Durrant-Whyte.
+\newblock Coordinated decentralized search for a lost target in a bayesian
+  world.
+\newblock In {\em Intelligent Robots and Systems, 2003.(IROS 2003).
+  Proceedings. 2003 IEEE/RSJ International Conference on}, volume~1, pages
+  48--53. IEEE, 2003.
+
+\bibitem{bylander1994computational}
+Tom Bylander.
+\newblock The computational complexity of propositional strips planning.
+\newblock {\em Artificial Intelligence}, 69(1):165--204, 1994.
+
+\bibitem{cambon2009hybrid}
+Stephane Cambon, Rachid Alami, and Fabien Gravot.
+\newblock A hybrid approach to intricate motion, manipulation and task
+  planning.
+\newblock {\em The International Journal of Robotics Research}, 28(1):104--126,
+  2009.
+
+\bibitem{cambone2005unmanned}
+Stephen~A Cambone.
+\newblock {\em Unmanned aircraft systems roadmap 2005-2030}.
+\newblock Defense Technical Information Center, 2005.
+
+\bibitem{carpin2011searching}
+Stefano Carpin, Derek Burch, and Timothy~H Chung.
+\newblock Searching for multiple targets using probabilistic quadtrees.
+\newblock In {\em Intelligent Robots and Systems (IROS), 2011 IEEE/RSJ
+  International Conference on}, pages 4536--4543. IEEE, 2011.
+
+\bibitem{chanel2013multi}
+Caroline Ponzoni~Carvalho Chanel, Florent Teichteil-K{\"o}nigsbuch, and Charles
+  Lesire.
+\newblock Multi-target detection and recognition by uavs using online pomdps.
+\newblock In {\em AAAI}, 2013.
+
+\bibitem{choi2009combining}
+Jaesik Choi and Eyal Amir.
+\newblock Combining planning and motion planning.
+\newblock In {\em Robotics and Automation, 2009. ICRA'09. IEEE International
+  Conference on}, pages 238--244. IEEE, 2009.
+
+\bibitem{dille2013search}
+Michael Dille.
+\newblock Search and pursuit with unmanned aerial vehicles in road networks.
+\newblock Technical report, DTIC Document, 2013.
+
+\bibitem{erol1994htn}
+Kutluhan Erol, James Hendler, and Dana~S Nau.
+\newblock Htn planning: Complexity and expressivity.
+\newblock In {\em AAAI}, volume~94, pages 1123--1128, 1994.
+
+\bibitem{fikes1972strips}
+Richard~E Fikes and Nils~J Nilsson.
+\newblock Strips: A new approach to the application of theorem proving to
+  problem solving.
+\newblock {\em Artificial intelligence}, 2(3):189--208, 1972.
+
+\bibitem{geyer2008active}
+Christopher Geyer.
+\newblock Active target search from uavs in urban environments.
+\newblock In {\em Robotics and Automation, 2008. ICRA 2008. IEEE International
+  Conference on}, pages 2366--2371. IEEE, 2008.
+
+\bibitem{guitton2009taking}
+Julien Guitton and Jean-Loup Farges.
+\newblock Taking into account geometric constraints for task-oriented motion
+  planning.
+\newblock {\em Proc. Bridging the gap Between Task And Motion Planning, BTAMP},
+  9:26--33, 2009.
+
+\bibitem{hauser2010task}
+Kris Hauser.
+\newblock Task planning with continuous actions and nondeterministic motion
+  planning queries.
+\newblock In {\em Proc. of AAAI Workshop on Bridging the Gap between Task and
+  Motion Planning}, 2010.
+
+\bibitem{hauskrecht2000value}
+Milos Hauskrecht.
+\newblock Value-function approximations for partially observable markov
+  decision processes.
+\newblock {\em Journal of Artificial Intelligence Research}, pages 33--94,
+  2000.
+
+\bibitem{kaelbling2010hierarchical}
+Leslie~Pack Kaelbling and Tom{\'a}s Lozano-P{\'e}rez.
+\newblock Hierarchical task and motion planning in the now.
+\newblock 2010.
+
+\bibitem{kaelbling2012integrated}
+Leslie~Pack Kaelbling and Tom{\'a}s Lozano-P{\'e}rez.
+\newblock Integrated robot task and motion planning in belief space.
+\newblock 2012.
+
+\bibitem{miller2009pomdp}
+Scott~A Miller, Zachary~A Harris, and Edwin~KP Chong.
+\newblock A pomdp framework for coordinated guidance of autonomous uavs for
+  multitarget tracking.
+\newblock {\em EURASIP Journal on Advances in Signal Processing}, 2009:2, 2009.
+
+\bibitem{murphy2000survey}
+Kevin~P Murphy.
+\newblock A survey of pomdp solution techniques.
+\newblock {\em environment}, 2:X3, 2000.
+
+\bibitem{ponzoni2012pomdp}
+Caroline Ponzoni Carvalho~Chanel, Florent Teichteil-K{\"o}nigsbuch, and Charles
+  Lesire.
+\newblock Pomdp-based online target detection and recognition for autonomous
+  uavs.
+\newblock 2012.
+
+\bibitem{ross_online_2008}
+Stéphane Ross, Joelle Pineau, Sébastien Paquet, and Brahim Chaib-draa.
+\newblock Online planning algorithms for {POMDPs}.
+\newblock {\em Journal of Artificial Intelligence Research}, 2008.
+
+\bibitem{sacerdoti1974planning}
+Earl~D. Sacerdoti.
+\newblock Planning in a hierarchy of abstraction spaces.
+
+\bibitem{silver_monte-carlo_2010}
+David Silver and Joel Veness.
+\newblock Monte-{Carlo} {Planning} in {Large} {POMDPs}.
+\newblock In J.~D. Lafferty, C.~K.~I. Williams, J.~Shawe-Taylor, R.~S. Zemel,
+  and A.~Culotta, editors, {\em Advances in {Neural} {Information} {Processing}
+  {Systems} 23}, pages 2164--2172. Curran Associates, Inc., 2010.
+
+\bibitem{somani_despot:_2013}
+Adhiraj Somani, Nan Ye, David Hsu, and Wee~Sun Lee.
+\newblock {DESPOT}: {Online} {POMDP} {Planning} with {Regularization}.
+\newblock In C.~J.~C. Burges, L.~Bottou, M.~Welling, Z.~Ghahramani, and K.~Q.
+  Weinberger, editors, {\em Advances in {Neural} {Information} {Processing}
+  {Systems} 26}, pages 1772--1780. Curran Associates, Inc., 2013.
+
+\bibitem{wolfe2010combined}
+Jason Wolfe, Bhaskara Marthi, and Stuart~J Russell.
+\newblock Combined task and motion planning for mobile manipulation.
+\newblock In {\em ICAPS}, pages 254--258, 2010.
+
+\end{thebibliography}
